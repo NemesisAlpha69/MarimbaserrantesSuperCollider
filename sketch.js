@@ -36,6 +36,7 @@ function draw() {
   ellipse( random(width), random(height), amplitude, amplitude);
 }
 
+
 function mousePressed() {
   if (!started) {
     sound.loop();
