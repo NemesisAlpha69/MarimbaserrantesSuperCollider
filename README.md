@@ -1,4 +1,8 @@
-# MarimbaserrantesSuperCollider
+# Marimbas Errantes Performance and Technical
+# Documentation
+# Nehemias Alvarado
+# January 7, 2025
+
 
 
 Marimbas Errantes Performance and Technical
