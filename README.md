@@ -4,7 +4,7 @@ Documentation
 Nehemias Alvarado
 January 7, 2025
 Analysis:
-This piece was created with SuperCollider, blending live sound processing and generative composition. The main components consist of custom SynthDefs for instruments such as blip, reverb, and
+This piece was created with SuperCollider, blending live sound processing and generative composition. The main components consist of custom SynthDefs for instruments such as blip, reverb, and
 bpfsaw, which generate sound through synthesizers and filters. Each performer will interact with
 live processing using MIDI or audio inputs, with some sections focused on sound manipulation,
 dynamic volume changes, and evolving textures.
